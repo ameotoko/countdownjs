@@ -1,0 +1,19 @@
+{
+  "name": "ameotoko/countdownjs",
+  "type": "contao-component",
+  "description": "Shim repository for using Countdown.js with Contao Open Source CMS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stephen McKamey",
+      "homepage": "http://mck.me"
+    },
+    {
+      "name": "Andrey Vinichenko",
+      "homepage": "https://github.com/ameotoko"
+    }
+  ],
+  "require": {
+    "contao-components/installer": "^1.0.9"
+  }
+}
